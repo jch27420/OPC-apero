@@ -59,9 +59,6 @@ ggplot(data = penguins, aes(x = flipper_length_mm)) +
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
 
-
-
-
 ## Fame was like a drug. But what was even more like a drug were the drugs.
 
 Jesus must be spinning in his grave! Marge, just about everything's a sin. Y'ever sat down and read this thing? Technically we're not supposed to go to the bathroom. Marge, it takes two to lie. One to lie and one to listen.
