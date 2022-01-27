@@ -6,9 +6,7 @@ headline: |
   Ojibway Prairie Complex
 ---
 <style type="text/css">
-#Red { font-weight: bold; color: rgb(255, 0, 0); }
 #Dred { font-weight: bold; color: rgb(175, 0, 0); }
-#Or { font-weight: bold; color: rgb(255, 115, 0); }
 #Gold { font-weight: bold; color: rgb(230, 190, 0); }
 #Fgr { font-weight: bold; color: rgb(20, 80, 20); }
 #Blue { font-weight: bold; color: blue; }
