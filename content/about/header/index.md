@@ -2,8 +2,7 @@
 ## Configure header of page
 text_align_right: false
 show_title_as_headline: false
-headline: |
-  Ojibway Prairie Complex
+headline: Ojibway Prairie Complex
 bibliography: OPC_citations.bib
 csl: NIH_research.csl
 link-citations: yes
