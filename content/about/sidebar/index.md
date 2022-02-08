@@ -1,19 +1,15 @@
 ---
 ## Configure sidebar content in narrow column
-author: "JC Howard"
+author: "JCH"
 role: " "
 avatar_shape: rounded # circle, square, rounded
 show_social_links: false # specify social accounts in site config
 show_audio_link: false
-audio_link_label: "How to say my name"
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+audio_link_label: " "
+link_list_label: "Resources" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
+- name: 
   url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
 ---
 
 ** index doesn't contain a body, just front matter above.
