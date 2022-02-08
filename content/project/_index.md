@@ -1,7 +1,7 @@
 ---
 title: OPC Project Portfolio
-description: "Give your projects a place to live online."
-author: "Jeffrey C Howard"
+description: "Science and Nature of Ojibway Prairie Complex."
+author: "JCH"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
@@ -22,7 +22,8 @@ sidebar:
 cascade:    
   show_author_byline: true
   show_post_date: true
-  show_disqus_comments: false # see disqusShortname in site config
+  show_disqus_comments: false 
+  # see disqusShortname in site config
   # for single-sidebar layout only
   sidebar:
     text_link_label: View all projects
