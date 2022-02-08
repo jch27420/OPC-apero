@@ -1,14 +1,16 @@
 ---
 title: "About OPC"
 subtitle: " "
-excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
-date: 2019-07-01
+excerpt: " "
+# This theme has a form-to-email feature built in, thanks to the
+# simple Formspree integration. All you need to activate the form is a valid
+# recipient email address saved in the form front matter
+date: 2022-02-01
 author: "Jeffrey C Howard"
 draft: false
 tags:
   - hugo-site
 categories:
-  - Theme Features
   - R
   - package
 layout: single
@@ -29,7 +31,7 @@ links:
 
 ### Functional Form
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+<!-- This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
 
 ```toml
 # please replace with a valid Formspree form id or email address
@@ -50,3 +52,12 @@ layout: split-right
 ![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
 
 Both layouts display the page title and description opposite the form, and you can also choose to show your social icon links if you have those configured in the `config.toml` file.
+
+-->
+
+
+
+
+
+
+
