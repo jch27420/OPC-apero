@@ -1,10 +1,10 @@
 ---
 title: "OPC Project"
 subtitle: "Exploration of the Natural World"
-description: "Ojibway Prairie Complex (OPC) is one of only three major Tallgrass Communities remaining in Ontario. This unique habitat is home to one of the largest number of rare and endangered wildlife species in the country."
-date: 2019-02-18T12:27:33-06:00
+description: "**O**jibway **P**rairie **C**omplex (**OPC**) is one of the last remaining major **Tallgrass Communities** in Ontario. Its unique and varied habitat is home to one of the largest collections of rare and endangered wildlife species in the country."
+date: 2022-02-07T12:27:33-06:00
 images:
-  - img/OPCmap1.jpg
+  - img/OPCcollage.jpg
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
