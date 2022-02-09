@@ -3,9 +3,6 @@
 text_align_right: false
 show_title_as_headline: false
 headline: Ojibway Prairie Complex
-bibliography: OPC_citations.bib
-csl: NIH_research.csl
-link-citations: yes
 ---
 <style type="text/css">
 #Dred { font-weight: bold; color: rgb(175, 0, 0); }
@@ -15,13 +12,4 @@ link-citations: yes
 </style>
 
 <!-- this is a subheadline -->
-<span id="Dred">O</span>jibway <span id="Dred">P</span>rairie <span id="Dred">C</span>omplex (<span id="Dred">OPC</span>) lies nestled between the city of Windsor and the town of LaSalle in South-Western Ontario, Canada. This region was once home to the town of Ojibway, which became annexed by the city of Windsor in 1966. Today <span id="Dred">OPC</span> is composed of 5 distinct areas known as: **(i) Black Oak Heritage Park**; **(ii) Ojibway Park**; **(iii) Ojibway Prairie Provincial Nature Reserve**; **(iv) Tallgrass Prairie Heritage Park** and **(v) Spring Garden ANSI** (Area of Natural and Scientific Interest). According to Ontario's ecological land classification systems, <span id="Dred">OPC</span> is part of the southern most <span id="Blue">ecoregion</span> (i.e. **7E: [Southern Great Lakes lowland forests](https://www.ontario.ca/page/ecosystems-ontario-part-1-ecozones-and-ecoregions)**) of Ontario's **Mixed-wood Plains** <span id="Blue">ecozone</span>. Some of the unique features of this region include:  
-
-**(i) GEOLOGY:** The landscape of <span id="Dred">OPC</span> was largely sculpted by glacial ice and water. The unconsolidated material lying atop the bedrock at <span id="Dred">OPC</span> was laid down during the latter part of the [Wisconsin glacial period](https://opentextbc.ca/geology/chapter/16-1-glacial-periods-in-earths-history/) (c. ~75,000 to 10,000 years ago). These layers of ice-age sediment are part of a much larger glacial feature known as the **St. Clair Clay Plain**. The silty-clay content of this plain extends beyond the borders of Essex county into neighbouring Kent and Lambton counties.
-
-**(ii) CLIMATE:** is relatively mild due in large part to the modifying affect of the Great Lakes. 
-
-**(iii) BIODIVERSITY:** 
-
-# References:
-
+<span id="Dred">O</span>jibway <span id="Dred">P</span>rairie <span id="Dred">C</span>omplex (<span id="Dred">OPC</span>) lies nestled between the city of Windsor and the town of LaSalle in Southern Ontario, Canada. It currently consists 5 neighbouring areas including: **(i) Black Oak Heritage Park**; **(ii) Ojibway Park**; **(iii) Ojibway Prairie Provincial Nature Reserve**; **(iv) Tallgrass Prairie Heritage Park** and **(v) Spring Garden ANSI** (Area of Natural and Scientific Interest). <span id="Dred">OPC</span> is part of the province's southern most <span id="Blue">ecoregion</span> formally known as **[Southern Great Lakes lowland forests](https://www.ontario.ca/page/ecosystems-ontario-part-1-ecozones-and-ecoregions)**. This unique **[Tallgrass Community](https://tallgrassontario.org/wp-site/)** holds many natural wonders, both big and small, worth exploring and saving for future generations. It has much to teach us. 
