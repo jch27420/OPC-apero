@@ -30,7 +30,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "MMEye Inc."
+  orgName = "JCH"
   orgLocal = "Toronto, Canada"
   description = "Science education site built using Apero theme for Hugo."
   favicon = "/img/favicon.ico"
