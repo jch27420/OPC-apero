@@ -19,8 +19,7 @@ enableEmoji = true
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark.renderer]
-    unsafe = true # Enable user to embed HTML snippets
-# in Markdown content.
+    unsafe = true # User can embed HTML snippets in Markdown content
     hardwraps = false 
   [markup.tableOfContents]
     startLevel = 2
@@ -44,7 +43,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/Sass.jpg"
   # Twitter username (without @). Used when a visitor
   # shares your site on Twitter.
   twitter = " "
