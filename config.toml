@@ -2,7 +2,7 @@ baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Ojibway Prairie Complex blogdown"
-author = "Jeffrey C Howard"
+author = "JCH"
 copyright = "" # set to override the auto generated
 # copyright using org info and now year
 googleAnalytics = ""
