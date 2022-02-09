@@ -1,6 +1,6 @@
 ---
 title: OPC Project Portfolio
-description: "Science and Nature of Ojibway Prairie Complex."
+description: "Science of Ojibway Prairie Complex."
 author: "JCH"
 show_post_thumbnail: true
 show_author_byline: true
@@ -13,7 +13,7 @@ sidebar:
   title: A Sidebar for Your Projects
   description: |
     Projects can be anything!
-  author: "J.C. Howard"
+  author: "JCH"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
