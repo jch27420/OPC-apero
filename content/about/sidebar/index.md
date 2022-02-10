@@ -2,7 +2,7 @@
 ## Configure sidebar content in narrow column
 author: "JCH"
 role: " "
-avatar_shape: square # circle, square, rounded
+avatar_shape: circle # circle, square, rounded
 show_social_links: false # specify social accounts in site config
 show_audio_link: false
 audio_link_label: " "
